@@ -1,4 +1,4 @@
-# This ASSIGNMENT coontain
+# This ASSIGNMENT contain
 # 1. Synthetic Image Creation and Thresholding
 - **Objective**: Learn different thresholding techniques for image segmentation.
 - **Steps:**
