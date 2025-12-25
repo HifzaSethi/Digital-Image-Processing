@@ -6,7 +6,7 @@ from skimage.morphology import skeletonize, remove_small_objects, remove_small_h
 
 # 1. LOAD PBM IMAGE
 
-img = Image.open(r"F:\python\AI\dip\taskweek3\images lab\images lab\testHard.pbm")
+img = Image.open(r"F:\python\AI\dip\taskweek3\images lab\images lab\test1.pbm")
 img = np.array(img)
 
 # PBM images are 0/1; convert to binary
@@ -129,3 +129,4 @@ plt.axis("off")
 
 plt.tight_layout()
 plt.show()
+
